@@ -1,0 +1,8 @@
+selene>=2.0.0b16
+pytest
+allure-pytest
+requests
+voluptuous
+pytest-voluptuous
+curlify
+python-dotenv
